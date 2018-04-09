@@ -7,3 +7,5 @@
 `Task: Fix the bug so we can all go home early.`
 
 `Notes: String str will never be null.`
+
+Link to: [https://www.codewars.com/kata/fixme-replace-all-dots/javascript](https://www.codewars.com/kata/fixme-replace-all-dots/javascript)
